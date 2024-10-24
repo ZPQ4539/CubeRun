@@ -1,0 +1,15 @@
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\bin\Debug\net6.0\ServerBat.exe
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\bin\Debug\net6.0\ServerBat.deps.json
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\bin\Debug\net6.0\ServerBat.runtimeconfig.json
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\bin\Debug\net6.0\ServerBat.dll
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\bin\Debug\net6.0\ServerBat.pdb
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.csproj.AssemblyReference.cache
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.AssemblyInfoInputs.cache
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.AssemblyInfo.cs
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.csproj.CoreCompileInputs.cache
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.dll
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\refint\ServerBat.dll
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.pdb
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ServerBat.genruntimeconfig.cache
+D:\Demo\MyDemo\Server\ServerBat\ServerBat\obj\Debug\net6.0\ref\ServerBat.dll
